@@ -5,7 +5,7 @@ This is  assignment 2 in social data analysis!
 https://ingvarbjarki.github.io/Assignment2/
 
 ## Why this directory
-The code in this repositroy is also avilable in another directory on github(), however
+The code in this repositroy is also avilable in another directory on github(https://github.com/IngvarBjarki/ingvarbjarki.github.io/tree/master/Assignment2), however
 we felt that it was more "clean" to put it in a new repositroy, since the other one is
 really a child directory inside a parent directory, which we feel like is messier to observe.
 
